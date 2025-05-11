@@ -1,3 +1,6 @@
 [submodule "bug_fixed--react"]
 	path = bug_fixed--react
-	url = https://github.com/ankitaa19/bug_fixed--react.git
+	url = https://github.com/ankitaa19/bug_fixed--react
+[submodule "react"]
+	path = react
+	url = https://github.com/ankitaa19/bug_fixed--react
